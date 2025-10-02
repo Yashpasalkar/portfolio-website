@@ -75,7 +75,7 @@ export const EDUCATION_DATA: Education[] =[ {
   
 },
 {
-  degree: "Bachlor's of Computer Applications (MCA)",
+  degree: "Bachlor's of Computer Applications (BCA)",
   institution: "JSS INSTITUTE OF UG AND PG STUDIES, DHARWAD",
   cgpa: "7.0",
   year: "Year of Passing: 2023",

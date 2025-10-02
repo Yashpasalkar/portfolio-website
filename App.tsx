@@ -11,6 +11,7 @@ import Footer from './components/Footer';
 import InteractiveBackground from './components/InteractiveBackground';
 import SpotlightCursor from './components/SpotlightCursor';
 
+
 const App: React.FC = () => {
   return (
     <div className="min-h-screen font-sans">
